@@ -1,0 +1,3 @@
+C:/Users/evgen/CLionProjects/matrixСalculator/cmake-build-debug/CMakeFiles/matrixalculator.dir
+C:/Users/evgen/CLionProjects/matrixСalculator/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/evgen/CLionProjects/matrixСalculator/cmake-build-debug/CMakeFiles/rebuild_cache.dir
